@@ -1,0 +1,28 @@
+// nickname		1   
+// age			2   
+// gender		3   
+// background		4   
+// degree		5   
+// major in music	6   
+// music listening	7   
+// instrument play	8   
+// happy		9   
+// exciting	   	10   
+// angry		11	
+// sad			12   
+// sleepy		13   
+// relaxing		14   
+                        
+// personalities   	15-44
+	// unsociable, not adventurous, conservative (extraversion vs. introversion)
+	// not forgiving, suspicious, stubborn       (agreeableness vs. antagonism)
+	// not organized,careless,not impulsive      (conscientiousness vs. lack of direction)
+	// calm, not irratable, contented            (neuroticism vs. emotional stability)
+	// pratical, narrow intersets, conventional  (openness vs. closedness to experience)
+// --			
+[v1 a1]
+[v2 a2]
+...
+
+
+

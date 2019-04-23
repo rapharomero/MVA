@@ -1,0 +1,80 @@
+1	1	003 Nirvana - Smells Like Teen Spirit.wav
+1	2	05 - Green Day - Are We the Waiting.wav
+1	3	013 Guns N' Roses - Appetite For Destruction - 09 - Sweet Child O' Mine.wav
+1	4	01_Oh_Happy_Day.wav
+1	5	04 The Drugs Don't Work.wav
+1	6	044 ABBA - Dancing Queen.wav
+1	7	10-As Time Goes By.wav
+1	8	13-Dying in the sun.wav
+1	9	Aereogramme-02-Barriers.wav
+1	10	James Brown - I Feel Good.wav
+1	11	Joan Baez - Diamonds and Rust.wav
+1	12	Krystal Meyers - Anticonformity.wav
+1	13	Marilyn Manson - Sweet Dreams.wav
+1	14	My Morning Jacket - 06 - Into The Woods.wav
+1	15	Paul Simon & Art Garfunkel - The Sound Of Silence.wav
+2	1	023 Roy Orbison - Oh Pretty Woman.wav
+2	2	040 Whitney Houston - I Will Always Love You.wav
+2	3	01 - Green Day - American Idiot.wav
+2	4	09 Copycat.wav
+2	5	ACDC - Hells Bells.wav
+2	6	Don McLean - Castles In The Air.wav
+2	7	Happy Mondays - Hallelujah.wav
+2	8	Janis Joplin - The rose.wav
+2	9	Lou Reed - Perfect Day.wav
+2	10	Louis Armstrong - What A Wonderful World.wav
+2	11	stay.wav
+2	12	The Christmas Song.wav
+2	13	Vanessa Carlton - A Thousand Miles.wav
+2	14	Where the streets have no name (U2 Live 2001).wav
+2	15	Ono Lisa -Song of Winter-06-WHITE CHRISTMAS.wav
+3	1	006 Beatles - I Want to Hold Your Hand.wav
+3	2	01 - Take a Bow.wav
+3	3	015 John Lennon - Imagine.wav
+3	4	030 Elton John - Your Song.wav
+3	5	04 Zombie.wav
+3	6	05.- Frank Sinatra - we wish you the merriest - [EMG].wav
+3	7	A Whole New World.wav
+3	8	ACDC - Highway To Hell.wav
+3	9	Billie Holiday - Gloomy sunday.wav
+3	10	Elvis Costello - She.wav
+3	11	Frank Sinatra - Jingle Bells.wav
+3	12	LEONARD COHEN - Suzanne.wav
+3	13	Oasis - Champagne Supernova.wav
+3	14	Ritchie Valens - Tell Laura I Love Her.wav
+3	15	The Everly Brothers - All I Have To Do Is Dream.wav
+4	1	004 Madonna - Like A Virgin.wav
+4	2	008 U2 - With Or Without You.wav
+4	3	010 Backstreet Boys - I want it that way.wav
+4	4	060 Billy Joel - Just The Way You Are.wav
+4	5	10 - C'est La Vie.wav
+4	6	Bwitched - C'est la vie.wav
+4	7	Donnie Darko - Mad World.wav
+4	8	Guns N Roses - Civil War.wav
+4	9	Hilary Duff - our lips are sealed.wav
+4	10	Iggy Pop - Louie Louie.wav
+4	11	Jeff Buckley - Hallelujah.wav
+4	12	Michael Bolton - When A Man Loves A Woman.wav
+4	13	Norah Jones - day is done.wav
+4	14	Where have all the flowers gone.wav
+4	15	Ono Lisa -My Angel-09-Labita.wav
+5	1	016 Sinead O'Connor - Nothing Compares 2 U.wav
+5	2	01_Lady With The Spinning Head (Extended Dance Mix).wav
+5	3	028 Hanson - MmmBop.wav
+5	4	03-linkin_park_-_somewhere_i_belong-mp3.wav
+5	5	051 The Temptations - Just My Imagination.wav
+5	6	06 - Joan Baez - To Bobby.wav
+5	7	06-Un-Break My Heart-Toni Braxton.wav
+5	8	All Saints Never Ever.wav
+5	9	Avril_06_Unwanted.wav
+5	10	Brie Larson - Hope Has Wings.wav
+5	11	capenter sisters.wav
+5	12	Foo Fighters - Kung Fu Fighting.wav
+5	13	Joy Division - Atmosphere (1980).wav
+5	14	joy_division-love_will_tear_us_apart.wav
+5	15	Nightwish - Wish I Had An Angel.wav
+5	16	Phill Collins - True Color.wav
+5	17	Pink Floyd - Wish You Were Here.wav
+5	18	Rod_Steward_Sentimental reasons.wav
+5	19	The end of the world.wav
+5	20	yesterday.wav
